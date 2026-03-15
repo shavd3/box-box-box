@@ -2,10 +2,10 @@
 # Example patterns below - uncomment and modify as needed:
 
 # Python
-# __pycache__/
-# *.pyc
-# .venv/
-# venv/
+__pycache__/
+*.pyc
+.venv/
+venv/
 
 # Node.js
 # node_modules/
